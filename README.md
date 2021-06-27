@@ -7,7 +7,6 @@ Bu repo [Kodluyoruzilkrepo](https://github.com/baraa-karazeh/kodluyoruzilkrepo.g
 # ![creating a repository on github](img/odev.PNG)
 
 ## Installation
----
 
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
 
@@ -16,7 +15,6 @@ https://github.com/baraa-karazeh/kodluyoruzilkrepo
 ```
 
 ## Usage
----
 
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
@@ -27,11 +25,10 @@ cd kodluyoruzilkrepo code .
 ```
 
 ## Contributing
----
 
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 
+
 ## License
----
 
 [MIT](https://choosealicense.com/licenses/mit/)
