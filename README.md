@@ -2,7 +2,7 @@
 
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
-Bu repo [Kodluyoruzilkrepo](https://github.com/baraa-karazeh/kodluyoruzilkrepo) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
+Bu repo [Kodluyoruzilkrepo](https://github.com/baraa-karazeh/kodluyoruzilkrepo.git) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
 # ![creating a repository on github](img/odev.PNG)
 
